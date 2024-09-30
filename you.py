@@ -11,7 +11,7 @@ from PIL import Image
 #API key connection
 
 def Api_connect():
-    Api_Id="AIzaSyDpfuvjKzz_6ryjsSilAh57RgUAJ_rjOQI"
+    Api_Id="Mention your api id"
 
     api_service_name="youtube"
     api_version="v3"
